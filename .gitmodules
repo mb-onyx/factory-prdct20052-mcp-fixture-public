@@ -1,0 +1,3 @@
+[submodule "vendor/sub"]
+	path = vendor/sub
+	url = https://github.com/mb-onyx/factory-prdct20052-mcp-fixture-submod.git
