@@ -1,1 +1,1 @@
-client_secret = "CONTROL_SENTINEL_7ab59181d595_1C4MCrBxvcoHSzfDMVymdFWWpdd8"
+client_secret = "zUXkmw6qUpVjJX2gHXUK4qY85tPxcFfN"  # CONTROL_SENTINEL_7ab59181d595
