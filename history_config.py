@@ -1,1 +1,0 @@
-client_secret = "HIST_SENTINEL_7ab59181d595_3uU8ET2AIvux5Umh1B3Zvog0u4Gs"
